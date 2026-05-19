@@ -19,5 +19,5 @@ int main(void)
         printf("avec pid :%d\n",getpid());
     }
 
-
+https://ankiweb.net/shared/info/2100338713
 }
